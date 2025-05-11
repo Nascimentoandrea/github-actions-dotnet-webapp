@@ -4,7 +4,7 @@
 name: .NET build
 # Acionado por evento de Push para o repositório.
 # Agendado para ser executado a cada hora.
-name: .NET Build Workflow
+
 
 on:
   push:
